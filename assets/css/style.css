@@ -11,7 +11,7 @@ html,
 body {
     background-color: #ffffff;
     font-size: 16px;
-    color:#6B6B6B;
+    color:#262D3F;
     width: 100%;
     padding: 0;
     margin-left: 0;
@@ -191,13 +191,13 @@ p:last-child {
     color: #333333;
 }
 .colorstext {
-    color: #f56363;
+    color: #69F0AE;
 }
 .coloricon i {
     color: #f56363;
 }
 .colorsbg {
-    background: #f56363;
+    background: #262D3F;
     color: #ffffff;
 }
 
@@ -242,7 +242,7 @@ Section
     padding-top:50px;
     padding-bottom:50px;
     color:#fff;
-    background:#222222;
+    background:#262D3F;
 }
 section .subtitle h5 {
     margin-top: 10px;
